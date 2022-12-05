@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="sources">
+    <file>arrow-34-24.ico</file>
+    <file>microphone-5-24.ico</file>
+  </qresource>
+</RCC>
